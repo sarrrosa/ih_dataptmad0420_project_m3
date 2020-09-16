@@ -1,4 +1,4 @@
-# Predicting diamond's price
+# Prediction diamond's price
 ![Image](https://user-images.githubusercontent.com/63467553/93368573-74dd0200-f84e-11ea-85f2-34e28a98e3b6.png)
 
 
