@@ -1,5 +1,5 @@
-# Diamonds are analyst's best friends
-![Image](https://user-images.githubusercontent.com/63467553/88570093-c7aef000-d03b-11ea-8019-8f413cf62cf7.png)
+# Predicting diamond's price
+![Image](https://user-images.githubusercontent.com/63467553/93368573-74dd0200-f84e-11ea-85f2-34e28a98e3b6.png)
 
 
 ## Motivation :blush:
