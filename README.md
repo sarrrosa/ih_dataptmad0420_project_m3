@@ -6,7 +6,7 @@
 *This is my third project within the Ironhack Analytics Bootcamp (Part time version) in Madrid.*
 
 ## Overview :gem:
-The objective of this project is to analyse if the price of **diamonds** varies depending on their 4Cs and if there are any specific variables to be taken into account that affect diamond price more than others. It is important to have the knowledge background as following in order to understand the basics of this database:
+The objective of this project is to predict the the price of **diamonds** depending on their 4Cs and if there are any specific variables to be taken into account that affect diamond price more than others. It is important to have the knowledge background as following in order to understand the basics of this database:
 
 - **Carat:** It refers to the diamond's weight, not size. The price of a diamond does not increase linearly with the increase of the catat. Carat weight is not related to a better diamond, the cut is. 
 - **Cut:** A diamond's cut is crucial to the stone's final beauty and value. It takes into account the design and craftsmanship of the diamond, including its weight relative to its diameter. The most important factor of all the 4Cs.
