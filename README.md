@@ -3,7 +3,7 @@
 
 
 ## Motivation :blush:
-*This is my second project within the Ironhack Analytics Bootcamp (Part time version) in Madrid.*
+*This is my third project within the Ironhack Analytics Bootcamp (Part time version) in Madrid.*
 
 ## Overview :gem:
 The objective of this project is to analyse if the price of **diamonds** varies depending on their 4Cs and if there are any specific variables to be taken into account that affect diamond price more than others. It is important to have the knowledge background as following in order to understand the basics of this database:
