@@ -38,35 +38,35 @@ The objective of this project is to predict the the price of **diamonds** depend
 ---
 
 ## Data sources :scroll:
- - Database with diamond details and list
-    - Provided by [Ironhack](http://www.potacho.com/files/ironhack/diamonds_train.csv) formatted as a `.csv` file.
+ - Database with diamond train
+ - Database with diamond test
+ - Output data [modelo_pepino.csv] formatted as a `.csv` file.
 
 ## Requirements :arrow_forward:
 
 You will need to install and import or have already installed and imported the following Python libraries in order to be able to analyse the data:
 - Data analysis:
     - Pandas
-- Data visualisation
-    - Seaborn
+    - Sklearn models
+    - Numpy
+- Data visualisation:
     - Matplotlib
-    - Plotly
-    - Plotly express
     
 ## Folder structure :open_file_folder:
 ```
 └── project   
     └── data
         ├── diamonds_train.csv
+        ├── diamonds_predict.csv
     ├── notebook
-        ├── data_analysis_report.ipynb
+        ├── machine_learning_model_diamond.ipynb
     ├── .gitignore
-    ├── tableau_public_link.txt
     ├── README.md
     ├── requirements.txt
 ```
 
 ## How to use :electric_plug:
-Download the databse provided and commit cells for visualisation deploy locally. 
+Download the databases provided and commit cells for local . 
 
 ## Examples of some study graphs :tada:
 An example of the input that you will be able to retrieve is the following:
