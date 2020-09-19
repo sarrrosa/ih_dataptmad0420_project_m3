@@ -3,7 +3,7 @@
 
 
 ## Motivation :blush:
-*This is my third project within the Ironhack Analytics Bootcamp (Part time version) in Madrid.*
+*This is my third project within the Ironhack Analytics Bootcamp (Part time version) in Madrid. The objective of the competition is to predict the diamond's price for a specific given dataset. More information about the competition can be found here: [Link] (https://www.kaggle.com/c/dataptmad0420/overview)*
 
 ## Overview :gem:
 The objective of this project is to predict the the price of **diamonds** depending on their 4Cs and if there are any specific variables to be taken into account that affect diamond price more than others. It is important to have the knowledge background as following in order to understand the basics of this database:
@@ -66,34 +66,12 @@ You will need to install and import or have already installed and imported the f
 ```
 
 ## How to use :electric_plug:
-Download the databases provided and commit cells for local . 
+Download the databases provided and commit cells for local deployment. 
 
-## Examples of some study graphs :tada:
-An example of the input that you will be able to retrieve is the following:
+## Machine learning models tested :tada:
+    - Decission Tree Regressor
+    - Gradient Boosting Regressor
+    - LGBM Regressor
 
-### Distribution of price and carats
-
-![Image](https://user-images.githubusercontent.com/63467553/88977832-d9ec9080-d2be-11ea-9963-a635d711343a.png)
-
-### Heatmap with relationship between all numerical values
-
-![Image](https://user-images.githubusercontent.com/63467553/88977835-da852700-d2be-11ea-96d4-24e1813e5ae8.png)
-
-### Distribution of clarity versus price
-
-![Image](https://user-images.githubusercontent.com/63467553/88977837-db1dbd80-d2be-11ea-91f0-6afdef1c551f.png)
-
-
-## Conclusions :pushpin:
-After carefully analysing the dataset provided, we can conclude the following assumptions:
-There is a strong correlation in the price-carat result. Obviously in broad knowledge assumption carats are the most marketer term used for diamond standards, thus, probably they're being used in this sense in order to setting the price, however, after researching, cut is actually the most important factor of all 4Cs.
-
-In all variables, the prices of the diamonds reach the maximum level. Meaning, you need to choose carefully the diamond values as you can fall into a increased price discrimination in terms of the diamond quality.
-
-According to the research, the cut is the most important factor of all 4Cs, however, most of the ideal cuts fall within 1 - 1,5 carat value.
-
-Recommendations for a potential buyer:
-Analyse other factors apart from the carats, it might be worth to try finding a diamond with an Ideal cut, falling within 1 and 1.5 carats and D or E colors.
-
-## Tableau Public Dashboard :chart_with_upwards_trend:
-- A Tableau Public dashboard has also been created, which can be accessed through this link: https://public.tableau.com/profile/sandraa91rg#!/vizhome/Project_module_2/Historia1
+## Output :pushpin:
+`.csv` file called modelo_pepino.csv to be uploaded to the Kaggle competition.  
