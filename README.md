@@ -3,7 +3,7 @@
 
 
 ## Motivation :blush:
-*This is my third project within the Ironhack Analytics Bootcamp (Part time version) in Madrid. The objective of the competition is to predict the diamond's price for a specific given dataset. More information about the competition can be found here: [Link] (https://www.kaggle.com/c/dataptmad0420/overview)*
+*This is my third project within the Ironhack Analytics Bootcamp (Part time version) in Madrid. The objective of the competition is to predict the diamond's price for a specific given dataset. More information about the competition can be found here: (https://www.kaggle.com/c/dataptmad0420/overview)*
 
 ## Overview :gem:
 The objective of this project is to predict the the price of **diamonds** depending on their 4Cs and if there are any specific variables to be taken into account that affect diamond price more than others. It is important to have the knowledge background as following in order to understand the basics of this database:
